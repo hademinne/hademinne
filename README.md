@@ -6,7 +6,7 @@
     <a href=""><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="" align="right" width="25%"/>
+  <img src="https://raw.githubusercontent.com/hademinne/hademinne/3669fb76be6e704416e72753145a965d6c1a0695/profile-img.png.png" align="right" width="25%"/>
 I'm a junior software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, Typescript, and Next.js.
 
 - 🔭 I'm a junior  software developer in Nouadhibou, Mauritania
