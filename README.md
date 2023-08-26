@@ -16,9 +16,6 @@ I'm a junior software developer who is passionate about creating technology to e
 - 🥅 Goals: Learn more about web3
 - ⚡ Fun fact: I love to fight , run and kitesurf.
 
-<br />
-<br />
-
 ---
 
 ### Languages and Tools:
