@@ -47,3 +47,4 @@ I'm a junior software developer who is passionate about creating technology to e
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+`
